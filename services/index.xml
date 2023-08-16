@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compétences on GéoLink</title>
-    <link>https://www.test.com/services/</link>
+    <link>https://www.geolink-bzh.fr/services/</link>
     <description>Recent content in Compétences on GéoLink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://www.test.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://www.geolink-bzh.fr/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phase études</title>
-      <link>https://www.test.com/services/etudes/</link>
+      <link>https://www.geolink-bzh.fr/services/etudes/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://www.test.com/services/etudes/</guid>
+      <guid>https://www.geolink-bzh.fr/services/etudes/</guid>
       <description>Etudes géotechniques préalables G1 et de conception G2
 Etudes géotechniques préalables : missions G1 Votre projet est peu défini, en terme d&amp;rsquo;emprise, d&amp;rsquo;implantation ou de charges notamment, ou vous vendez votre terrain et souhaitez fournir des éléments géotechniques aux futurs acquéreurs, l&amp;rsquo;étude géotechnique préalable (missions G1 de la norme NF P 94-500) est pour vous.
 On distingue deux phases :
@@ -21,20 +21,20 @@ Phase Enquête de Site (G1ES), pouvant être sommaire et basée sur des données
     
     <item>
       <title>Phase réalisation</title>
-      <link>https://www.test.com/services/realisation/</link>
+      <link>https://www.geolink-bzh.fr/services/realisation/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://www.test.com/services/realisation/</guid>
+      <guid>https://www.geolink-bzh.fr/services/realisation/</guid>
       <description>Supervision géotechnique d&amp;rsquo;exécution G4 - Etude et suivi géotechniques d&amp;rsquo;exécution G3
 En préambule, rappelons que la mission G3 est réalisée pour le compte de l&amp;rsquo;entreprise, la mission G4 étant réalisée pour le compte du maître d&amp;rsquo;ouvrage. Aussi, les deux missions ne peuvent pas être réalisées par un même géotechnicien. Ces deux missions sont définies par la norme NF P 94-500, dont un tableau synthétique est illustré ici à titre indicatif.</description>
     </item>
     
     <item>
       <title>Phase diagnostic</title>
-      <link>https://www.test.com/services/diagnostic/</link>
+      <link>https://www.geolink-bzh.fr/services/diagnostic/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://www.test.com/services/diagnostic/</guid>
+      <guid>https://www.geolink-bzh.fr/services/diagnostic/</guid>
       <description>Diagnostic géotechnique G5
 A toutes les étapes d&amp;rsquo;un projet La mission de diagnostic géotechnique (mission G5 de la norme NF P94-500) permet d&amp;rsquo;apporter notre expertise sur une problématique spécifique de votre projet. Elle se distingue ainsi des missions G1 et G2 qui elles doivent concerner l&amp;rsquo;ensemble du projet. Il peut s&amp;rsquo;agir d&amp;rsquo;un point technique ou de dimensionnement particulier, portant sur une partie du projet, fondations ou soutènement par exemple.
 Sur un ouvrage existant Lors de la vie de l&amp;rsquo;ouvrage, vous pouvez avoir besoin d&amp;rsquo;un diagnostic géotechnique notamment si vous envisagez des modifications sur l&amp;rsquo;ouvrage en lui-même ou dans son environnement proche, ou encore pour analyser les causes de la présence de désordres éventuels et étudier les solutions de confortement envisageables.</description>
